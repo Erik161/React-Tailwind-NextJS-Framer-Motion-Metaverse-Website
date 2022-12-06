@@ -8,9 +8,10 @@ const RootLayout = ({children})=> (
             <link rel="preconnect" href="https://www.behance.net/erikhernandez161" />
             <link rel="preconnect" href="https://github.com/Erik161" />
         </head>
-
+        <body>{children}</body>
 
     </html>
 
-
 );
+
+export default RootLayout;

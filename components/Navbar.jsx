@@ -31,6 +31,7 @@ const Navbar = () => {
           alt="menu"
           className="w-[24px] h-[24px] object-contain" 
           />
+          
         </div>
     </motion.nav>
   )
